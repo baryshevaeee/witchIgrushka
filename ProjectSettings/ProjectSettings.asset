@@ -143,9 +143,10 @@ PlayerSettings:
   bundleVersion: 1.21
   preloadedAssets:
   - {fileID: 11400000, guid: 3c62a682dd65b8b42aedd383fd96af71, type: 2}
-  - {fileID: 11400000, guid: 8a6e004481b4dee41aa51e4c9e6aaee5, type: 2}
-  - {fileID: 413483319039104040, guid: 52be9f7d72f1c49ec82bc11fe8062988, type: 2}
   - {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  - {fileID: 11400000, guid: 0ef24df11cd117344a8fcc493ffc5104, type: 2}
+  - {fileID: 413483319039104040, guid: 52be9f7d72f1c49ec82bc11fe8062988, type: 2}
+  - {fileID: 11400000, guid: 8a6e004481b4dee41aa51e4c9e6aaee5, type: 2}
   - {fileID: 6006800947349755408, guid: 3f43567ec445043fca4412e67fdfb241, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -180,7 +181,7 @@ PlayerSettings:
   AndroidBundleVersionCode: 7
   AndroidMinSdkVersion: 23
   AndroidTargetSdkVersion: 0
-  AndroidPreferredInstallLocation: 1
+  AndroidPreferredInstallLocation: 0
   aotOptions: 
   stripEngineCode: 1
   iPhoneStrippingLevel: 0
